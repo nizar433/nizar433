@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Mechatronics
 - 💞️ I’m looking to collaborate on Arduino, Python, and IOT
-- 📫 How to reach me via DM's
+- 📫 You can reach me via DM's
 
 <!---
 nizar433/nizar433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
